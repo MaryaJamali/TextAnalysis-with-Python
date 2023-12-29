@@ -3,7 +3,6 @@ This program is written in three modes without the help of a special library, wh
 ## Instructions:
 1.Simulate your repository:`git clone https://github.com/MaryaJamali/TextAnalysis-with-Python.git`
 <br>
-
 2. Place two `output textanalysis.csv` & `read textanalysis.txt` files  📁 next to the project 💻
 <br>
 <br>
