@@ -15,6 +15,7 @@ This program is written in three modes without the help of a special library, wh
 <br>
 <br>
 
-5.If you run `ObjectOrientedProgram.py` , enter your text manually, and after removing stopwords and punctuation marks, the program will display stopwords and punctuations in two separate lists and display the main words in a dictionary, where the dictionary key is the main words and its value is the number of repetitions.This program does not depend on the two files `output textanalysis.csv` & `read textanalysis.txt`. 📃
+5.If you run `ObjectOrientedProgram.py` , enter your text manually, and after removing stopwords and punctuation marks, the program will display stopwords and punctuations in two separate lists and display the main words in a dictionary, where the dictionary key is the main words and its value is the number of repetitions.
+This program does not depend on the two files `output textanalysis.csv` & `read textanalysis.txt`. 📃
 ## Author:
 Maryam Jamali 💓
