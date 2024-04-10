@@ -57,3 +57,7 @@ with open('output text analysis.csv', 'wt') as file_output:
     writer = csv.DictWriter(file_output, fieldnames=list_key)
     writer.writeheader()
     writer.writerows(list_csv)
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
