@@ -66,3 +66,7 @@ print('words without punctuations: ', input_text2)
 # Using the word count method
 input_text3 = input_text.wordcount(input_text2)
 print('Your main words count: ', input_text3)
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
